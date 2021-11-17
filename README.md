@@ -1,5 +1,9 @@
-### Hi there 👋
-⚡ Fun fact:
+<h2 align="center">Hi there 👋</h2>
+
+<div align="center">
+         
+![gregoire78's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoire78&show_icons=true&count_private=true&line_height=29&hide=contribs)
+
 ```
          __        _          __________  ____________   ____             ____               _                   __
        _/  \    _(\(o        / ____/ __ \/ ____/ ____/  / __ \_________  / __/__  __________(_)___  ____  ____ _/ /
@@ -17,17 +21,5 @@
                              \     /                                                       \     /
                               `---'                                                         `---'
 ```
-<!--
-**gregoire78/gregoire78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
